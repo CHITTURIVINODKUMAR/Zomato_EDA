@@ -1,9 +1,3 @@
-[![GitHub - abhijithkj369/Zomato-EDA ...](https://images.openai.com/thumbnails/b90569e1fbd7fea92a420fc52c829aab.jpeg)](https://github.com/abhijithkj369/Zomato-EDA)
-
-Certainly! Here's an enhanced and visually appealing README template for your GitHub repository, [Zomato\_EDA](https://github.com/CHITTURIVINODKUMAR/Zomato_EDA), designed to captivate visitors and effectively showcase your work.
-
----
-
 # 🍽️ Zomato Exploratory Data Analysis (EDA)
 
 Welcome to the Zomato EDA project! This repository delves into the Zomato restaurant dataset to uncover insights about dining trends, restaurant ratings, cuisines, and more. Whether you're a data enthusiast, a foodie, or someone interested in data science, this project offers valuable perspectives on the restaurant industry.
